@@ -1,5 +1,5 @@
 # SYSTEM CK POPRZEZ KOMENDE
-# ABY SKRYPT DZIAŁAŁ W PLIKU "ckcl.lua" linijka 25 w '' wpisz komende np RegisterCommand('ck' 
+aby skrypt działał w pliku "ckcl.lua" linijka 25 w '' wpisz komende np RegisterCommand('', function()
 
 https://discord.gg/t6wRMtACgE
 https://discord.gg/t6wRMtACgE
