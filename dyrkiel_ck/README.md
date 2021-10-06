@@ -1,4 +1,4 @@
-# SYSTEM CK W UI
+# SYSTEM CK POPRZEZ KOMENDE
 
 
 https://discord.gg/t6wRMtACgE
